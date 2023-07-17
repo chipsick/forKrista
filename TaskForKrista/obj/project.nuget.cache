@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dKQZd92ty5SIik5MTnwElDyBA1tg3h4fLeYjheAOz8Xl9xvDt1pRio31dOVZ3eyqfxj/E17Kk8Ts+bEV+W3yBw==",
+  "success": true,
+  "projectFilePath": "D:\\Криста\\TaskForKrista\\TaskForKrista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Катя\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Катя\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Катя\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
